@@ -1,7 +1,0 @@
-Flask
-Flask-Cors
-google-generativeai
-python-dotenv
-Pillow
-openpyxl
-gunicorn
